@@ -249,3 +249,5 @@ If you find this curated list helpful, consider supporting the project:
 **Made for frontend engineers, UI/UX designers, design-system architects, and open-source contributors.**  
 
 Let's make modern web UI design and component engineering more open, accessible, and composable.
+# Awesome-Computer-Graphics-GLSL-Shader-Authoring
+
