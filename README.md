@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring?style=flat-square&logo=github&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Graphics-GLSL-Shader-Authoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.style=flat-square" alt="License" /></a>
@@ -69,80 +69,80 @@ The sector exhibits **moderate fragmentation** rather than a winner-take-all mon
 
 ## 🔓 Open-Source GitHub Projects
 
-*The open-source design system ecosystem empowers developers to build accessible, themeable web interfaces without licensing lock-in. Below, repositories are equipped with live stargazers badges (`style=social`, `color=white`) linking directly to each repository's stargazers page, sorted in **descending order by star count**.*
+*The open-source design system ecosystem empowers developers to build accessible, themeable web interfaces without licensing lock-in. Below, repositories are equipped with live stargazers badges (`style=social`, `color=white`) linking directly to each repository's stargazers page, sorted in **descending order by Stars_Count**.*
 
 ### 🏆 High-Star Repositories (Ranked by Stars)
 
-1. **[shadcn/ui (`shadcn-ui/ui`)](https://github.com/shadcn-ui/ui)** [![GitHub Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
+1. **[shadcn/ui (`shadcn-ui/ui`)](https://github.com/shadcn-ui/ui)** [![GitHub_Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
    🔥 *Flagship open-source collection of re-usable, accessible, copy-paste React components built with Tailwind CSS and Radix/Base UI primitives. Instead of an npm dependency, you own the component source directly in your repository.*
 
-2. **[Ant Design (`ant-design/ant-design`)](https://github.com/ant-design/ant-design)** [![GitHub Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&color=white)](https://github.com/ant-design/ant-design/stargazers)  
+2. **[Ant Design (`ant-design/ant-design`)](https://github.com/ant-design/ant-design)** [![GitHub_Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&color=white)](https://github.com/ant-design/ant-design/stargazers)  
    🏢 *Enterprise-class React UI design language and comprehensive component suite created by Ant Group. Features hundreds of battle-tested inputs, complex virtualized data tables, cascading menus, and full internationalization.*
 
-3. **[Material UI (`mui/material-ui`)](https://github.com/mui/material-ui)** [![GitHub Stars](https://img.shields.io/github/stars/mui/material-ui?style=social&color=white)](https://github.com/mui/material-ui/stargazers)  
+3. **[Material UI (`mui/material-ui`)](https://github.com/mui/material-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/material-ui?style=social&color=white)](https://github.com/mui/material-ui/stargazers)  
    🎨 *The world's most popular React implementation of Google's Material Design specification. Features a robust theme engine, zero-runtime Emotion/Pigment CSS styling options, and an extensive ecosystem of enterprise add-ons.*
 
-4. **[daisyUI (`saadeghi/daisyui`)](https://github.com/saadeghi/daisyui)** [![GitHub Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&color=white)](https://github.com/saadeghi/daisyui/stargazers)  
+4. **[daisyUI (`saadeghi/daisyui`)](https://github.com/saadeghi/daisyui)** [![GitHub_Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&color=white)](https://github.com/saadeghi/daisyui/stargazers)  
    🌼 *The most widely deployed component plugin for Tailwind CSS. Adds clean, semantic utility classes (like `btn`, `card`, `modal`) that drastically reduce HTML verbosity while supporting 30+ pre-built themes with zero runtime overhead.*
 
-5. **[Chakra UI (`chakra-ui/chakra-ui`)](https://github.com/chakra-ui/chakra-ui)** [![GitHub Stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&color=white)](https://github.com/chakra-ui/chakra-ui/stargazers)  
+5. **[Chakra UI (`chakra-ui/chakra-ui`)](https://github.com/chakra-ui/chakra-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&color=white)](https://github.com/chakra-ui/chakra-ui/stargazers)  
    ⚡ *Simple, modular, and accessible React component library offering intuitive style props, semantic tokens, and Ark UI state-machine integration for seamless design system creation.*
 
-6. **[Mantine (`mantinedev/mantine`)](https://github.com/mantinedev/mantine)** [![GitHub Stars](https://img.shields.io/github/stars/mantinedev/mantine?style=social&color=white)](https://github.com/mantinedev/mantine/stargazers)  
+6. **[Mantine (`mantinedev/mantine`)](https://github.com/mantinedev/mantine)** [![GitHub_Stars](https://img.shields.io/github/stars/mantinedev/mantine?style=social&color=white)](https://github.com/mantinedev/mantine/stargazers)  
    🛡️ *A comprehensive, batteries-included React component and hooks library featuring 100+ customizable components, forms management, rich-text editors, nested notification systems, and native dark-mode styling.*
 
-7. **[HeroUI (`heroui-inc/heroui`, formerly NextUI)](https://github.com/heroui-inc/heroui)** [![GitHub Stars](https://img.shields.io/github/stars/heroui-inc/heroui?style=social&color=white)](https://github.com/heroui-inc/heroui/stargazers)  
+7. **[HeroUI (`heroui-inc/heroui`, formerly NextUI)](https://github.com/heroui-inc/heroui)** [![GitHub_Stars](https://img.shields.io/github/stars/heroui-inc/heroui?style=social&color=white)](https://github.com/heroui-inc/heroui/stargazers)  
    ✨ *Modern, visually stunning React UI library built on Tailwind CSS and React Aria. Delivers butter-smooth spring animations, automatic dark-mode contrast, and zero-runtime CSS overhead.*
 
-8. **[Headless UI (`tailwindlabs/headlessui`)](https://github.com/tailwindlabs/headlessui)** [![GitHub Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social&color=white)](https://github.com/tailwindlabs/headlessui/stargazers)  
+8. **[Headless UI (`tailwindlabs/headlessui`)](https://github.com/tailwindlabs/headlessui)** [![GitHub_Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social&color=white)](https://github.com/tailwindlabs/headlessui/stargazers)  
    🧠 *Completely unstyled, fully accessible UI components engineered by Tailwind Labs. Designed to integrate natively with Tailwind CSS utility classes across React and Vue applications.*
 
-9. **[Lucide Icons (`lucide-icons/lucide`)](https://github.com/lucide-icons/lucide)** [![GitHub Stars](https://img.shields.io/github/stars/lucide-icons/lucide?style=social&color=white)](https://github.com/lucide-icons/lucide/stargazers)  
+9. **[Lucide Icons (`lucide-icons/lucide`)](https://github.com/lucide-icons/lucide)** [![GitHub_Stars](https://img.shields.io/github/stars/lucide-icons/lucide?style=social&color=white)](https://github.com/lucide-icons/lucide/stargazers)  
    💎 *Beautiful and consistent open-source icon toolkit (fork of Feather Icons) with 1,400+ vector glyphs and official packages for React, Vue, Svelte, Angular, and Tailwind CSS design systems.*
 
-10. **[Magic UI (`magicuidesign/magicui`)](https://github.com/magicuidesign/magicui)** [![GitHub Stars](https://img.shields.io/github/stars/magicuidesign/magicui?style=social&color=white)](https://github.com/magicuidesign/magicui/stargazers)  
+10. **[Magic UI (`magicuidesign/magicui`)](https://github.com/magicuidesign/magicui)** [![GitHub_Stars](https://img.shields.io/github/stars/magicuidesign/magicui?style=social&color=white)](https://github.com/magicuidesign/magicui/stargazers)  
     🪄 *Open-source collection of 50+ animated landing page UI components, interactive border beams, radiant text gradients, and particle effects built with Tailwind CSS and Framer Motion.*
 
-11. **[Tabler Icons (`tabler/tabler-icons`)](https://github.com/tabler/tabler-icons)** [![GitHub Stars](https://img.shields.io/github/stars/tabler/tabler-icons?style=social&color=white)](https://github.com/tabler/tabler-icons/stargazers)  
+11. **[Tabler Icons (`tabler/tabler-icons`)](https://github.com/tabler/tabler-icons)** [![GitHub_Stars](https://img.shields.io/github/stars/tabler/tabler-icons?style=social&color=white)](https://github.com/tabler/tabler-icons/stargazers)  
     📐 *Set of over 5,200 free, open-source high-quality SVG icons designed on a 24x24 grid with 2px stroke, standard across web dashboards and mobile applications.*
 
-12. **[Radix UI Primitives (`radix-ui/primitives`)](https://github.com/radix-ui/primitives)** [![GitHub Stars](https://img.shields.io/github/stars/radix-ui/primitives?style=social&color=white)](https://github.com/radix-ui/primitives/stargazers)  
+12. **[Radix UI Primitives (`radix-ui/primitives`)](https://github.com/radix-ui/primitives)** [![GitHub_Stars](https://img.shields.io/github/stars/radix-ui/primitives?style=social&color=white)](https://github.com/radix-ui/primitives/stargazers)  
     🧩 *Unstyled, accessible, WAI-ARIA-compliant open-source React UI primitives (dialogs, dropdowns, popovers, tabs, tooltips, accordions) powering `shadcn/ui` and modern web design systems.*
 
-13. **[Taxonomy (`shadcn-ui/taxonomy`)](https://github.com/shadcn-ui/taxonomy)** [![GitHub Stars](https://img.shields.io/github/stars/shadcn-ui/taxonomy?style=social&color=white)](https://github.com/shadcn-ui/taxonomy/stargazers)  
+13. **[Taxonomy (`shadcn-ui/taxonomy`)](https://github.com/shadcn-ui/taxonomy)** [![GitHub_Stars](https://img.shields.io/github/stars/shadcn-ui/taxonomy?style=social&color=white)](https://github.com/shadcn-ui/taxonomy/stargazers)  
     🏗️ *An open-source, full-stack application built using Next.js 13+ App Router, Server Components, shadcn/ui primitives, Prisma, and Tailwind CSS showcasing best practices in web application architecture.*
 
-14. **[React Spectrum &amp; React Aria (`adobe/react-spectrum`)](https://github.com/adobe/react-spectrum)** [![GitHub Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&color=white)](https://github.com/adobe/react-spectrum/stargazers)  
+14. **[React Spectrum &amp; React Aria (`adobe/react-spectrum`)](https://github.com/adobe/react-spectrum)** [![GitHub_Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&color=white)](https://github.com/adobe/react-spectrum/stargazers)  
     🎯 *Adobe's open-source accessibility-first library of UI hooks and components providing battle-tested keyboard navigation, screen-reader compliance, touch interactions, and multi-language internationalization.*
 
-15. **[Base UI (`mui/base-ui`)](https://github.com/mui/base-ui)** [![GitHub Stars](https://img.shields.io/github/stars/mui/base-ui?style=social&color=white)](https://github.com/mui/base-ui/stargazers)  
+15. **[Base UI (`mui/base-ui`)](https://github.com/mui/base-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/base-ui?style=social&color=white)](https://github.com/mui/base-ui/stargazers)  
     🧱 *Next-generation unstyled, accessible UI component library maintained by the creators of Radix, Floating UI, and Material UI, featuring modern CSS anchor positioning and ergonomic subcomponents.*
 
-16. **[shadcn-vue (`unovue/shadcn-vue`)](https://github.com/unovue/shadcn-vue)** [![GitHub Stars](https://img.shields.io/github/stars/unovue/shadcn-vue?style=social&color=white)](https://github.com/unovue/shadcn-vue/stargazers)  
+16. **[shadcn-vue (`unovue/shadcn-vue`)](https://github.com/unovue/shadcn-vue)** [![GitHub_Stars](https://img.shields.io/github/stars/unovue/shadcn-vue?style=social&color=white)](https://github.com/unovue/shadcn-vue/stargazers)  
     💚 *The official Vue / Nuxt community port of `shadcn/ui`, powered by Radix Vue and Tailwind CSS for developer-owned, copy-pasteable Vue component architectures.*
 
-17. **[Flowbite (`themesberg/flowbite`)](https://github.com/themesberg/flowbite)** [![GitHub Stars](https://img.shields.io/github/stars/themesberg/flowbite?style=social&color=white)](https://github.com/themesberg/flowbite/stargazers)  
+17. **[Flowbite (`themesberg/flowbite`)](https://github.com/themesberg/flowbite)** [![GitHub_Stars](https://img.shields.io/github/stars/themesberg/flowbite?style=social&color=white)](https://github.com/themesberg/flowbite/stargazers)  
     🌊 *Comprehensive open-source library of 600+ UI components, sections, and pages built with Tailwind CSS utility classes and vanilla JavaScript/React/Vue/Svelte wrappers.*
 
-18. **[shadcn-svelte (`huntabyte/shadcn-svelte`)](https://github.com/huntabyte/shadcn-svelte)** [![GitHub Stars](https://img.shields.io/github/stars/huntabyte/shadcn-svelte?style=social&color=white)](https://github.com/huntabyte/shadcn-svelte/stargazers)  
+18. **[shadcn-svelte (`huntabyte/shadcn-svelte`)](https://github.com/huntabyte/shadcn-svelte)** [![GitHub_Stars](https://img.shields.io/github/stars/huntabyte/shadcn-svelte?style=social&color=white)](https://github.com/huntabyte/shadcn-svelte/stargazers)  
     🧡 *The official Svelte / SvelteKit community port of `shadcn/ui`, built on top of Bits UI and Tailwind CSS for reactive, zero-bloat web interfaces.*
 
-19. **[Ariakit (`ariakit/ariakit`)](https://github.com/ariakit/ariakit)** [![GitHub Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=social&color=white)](https://github.com/ariakit/ariakit/stargazers)  
+19. **[Ariakit (`ariakit/ariakit`)](https://github.com/ariakit/ariakit)** [![GitHub_Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=social&color=white)](https://github.com/ariakit/ariakit/stargazers)  
     ♿ *Toolkit for building accessible web applications, flexible design systems, and rich React composite widgets following WAI-ARIA authoring practices.*
 
-20. **[Motion Primitives (`ibelick/motion-primitives`)](https://github.com/ibelick/motion-primitives)** [![GitHub Stars](https://img.shields.io/github/stars/ibelick/motion-primitives?style=social&color=white)](https://github.com/ibelick/motion-primitives/stargazers)  
+20. **[Motion Primitives (`ibelick/motion-primitives`)](https://github.com/ibelick/motion-primitives)** [![GitHub_Stars](https://img.shields.io/github/stars/ibelick/motion-primitives?style=social&color=white)](https://github.com/ibelick/motion-primitives/stargazers)  
     🎬 *Smooth, copy-paste UI motion components and micro-interactions created with Tailwind CSS and Framer Motion for modern SaaS landing pages and product dashboards.*
 
-21. **[Ark UI (`chakra-ui/ark`)](https://github.com/chakra-ui/ark)** [![GitHub Stars](https://img.shields.io/github/stars/chakra-ui/ark?style=social&color=white)](https://github.com/chakra-ui/ark/stargazers)  
+21. **[Ark UI (`chakra-ui/ark`)](https://github.com/chakra-ui/ark)** [![GitHub_Stars](https://img.shields.io/github/stars/chakra-ui/ark?style=social&color=white)](https://github.com/chakra-ui/ark/stargazers)  
     🤖 *Universal headless library powered by finite state machines (Zag.js), delivering identical accessible component behaviors across React, Vue, and Solid.*
 
-22. **[Tremor (`tremorlabs/tremor`)](https://github.com/tremorlabs/tremor)** [![GitHub Stars](https://img.shields.io/github/stars/tremorlabs/tremor?style=social&color=white)](https://github.com/tremorlabs/tremor/stargazers)  
+22. **[Tremor (`tremorlabs/tremor`)](https://github.com/tremorlabs/tremor)** [![GitHub_Stars](https://img.shields.io/github/stars/tremorlabs/tremor?style=social&color=white)](https://github.com/tremorlabs/tremor/stargazers)  
     📈 *Open-source React dashboard component library built with Tailwind CSS and Recharts. Offers ready-to-use KPI cards, area charts, bar graphs, and sparklines.*
 
-23. **[Park UI (`cschroeter/park-ui`)](https://github.com/cschroeter/park-ui)** [![GitHub Stars](https://img.shields.io/github/stars/cschroeter/park-ui?style=social&color=white)](https://github.com/cschroeter/park-ui/stargazers)  
+23. **[Park UI (`cschroeter/park-ui`)](https://github.com/cschroeter/park-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/cschroeter/park-ui?style=social&color=white)](https://github.com/cschroeter/park-ui/stargazers)  
     🌲 *Multi-framework copy-paste UI component system engineered on Ark UI state machines and styled with Panda CSS or Tailwind CSS.*
 
-24. **[Islandcn (`opencoredev/islandcn`)](https://github.com/opencoredev/islandcn)** [![GitHub Stars](https://img.shields.io/github/stars/opencoredev/islandcn?style=social&color=white)](https://github.com/opencoredev/islandcn/stargazers)  
+24. **[Islandcn (`opencoredev/islandcn`)](https://github.com/opencoredev/islandcn)** [![GitHub_Stars](https://img.shields.io/github/stars/opencoredev/islandcn?style=social&color=white)](https://github.com/opencoredev/islandcn/stargazers)  
     🏝️ *Modular, lightweight UI component library and registry inspired by `shadcn/ui`, optimized for clean interface primitives and modern copy-paste workflows.*
 
 ---
