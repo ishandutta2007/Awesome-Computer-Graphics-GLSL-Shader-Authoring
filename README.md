@@ -1,6 +1,6 @@
 # Awesome-Computer-Graphics-GLSL-Shader-Authoring
 
-## Top Component Libraries & Modern UI Design Ecosystem
+### Top Component Libraries & Modern UI Design Ecosystem
 
 
 
@@ -251,130 +251,256 @@ If you find this curated list helpful, consider supporting the project:
 Let's make modern web UI design and component engineering more open, accessible, and composable.
 # Awesome-Computer-Graphics-GLSL-Shader-Authoring
 
-markdown
-# Top Computer Graphics & GLSL Shader Authoring Ecosystem
-
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
-*Focused on Live GLSL/WGSL Shader Playgrounds, Node-Based Shader Editors, Interactive Shader Formats (ISF), WebGL/WebGPU Engines & Shader Toolchains*  
-**Last updated: November 2026**
-
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Computer Graphics & GLSL Shader Authoring**. These tools write, compile, debug, visualize, cross-compile, and share real-time GLSL, HLSL, and WGSL fragment/vertex shaders across browser shader playgrounds, live-coding environments, node-based material editors, and WebGL/WebGPU graphics pipelines.
-
-**Examples** include Shadertoy, ShaderFrog, ISF (Interactive Shader Format), The Book of Shaders, GLSL Sandbox, VertexShaderArt, Three.js Editor, Babylon.js Sandbox, CodePen WebGL, WebGLStudio, and gokayfem/shader-skills (the category leaders and popular runtimes). 
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for shader authoring & AI shader workflows (`gokayfem/shader-skills`, `glslViewer`, `Bonzomatic`, `KodeLife-compatible OSS live coders`, `Twigl`), node-based & browser shader studios (`ShaderFrog Runtime`, `Babylon.js Node Material Editor`, `Three.js TSL`, `WebGLStudio`), and Khronos/industry shader compilers (`glslang`, `SPIRV-Cross`, `Naga`) — ideal for graphics programmers, shader artists, technical artists, demosceners, and WebGL/WebGPU developers.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Support & Share](#support--share)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-- **[Shadertoy](https://shadertoy.com)**  
-  Premier browser-based GLSL fragment shader playground and social gallery for real-time WebGL 2 procedural graphics, raymarching, multi-pass buffers, and audio-reactive shaders.
-
-- **[ShaderFrog](https://shaderfrog.com)**  
-  Cloud hybrid shader editor and visual material composer enabling artists to combine, remix, and export multi-pass GLSL shaders for Three.js, Babylon.js, and Unity.
-
-- **[ISF Editor & Video-Generators Portal (`isf.video`)](https://isf.video)**  
-  Hosted Interactive Shader Format (ISF) browser gallery, live editor, and VJ shader sharing platform supporting real-time uniforms and audio/MIDI inputs.
-
-- **[CodePen (WebGL & GLSL Showcase)](https://codepen.io)**  
-  Social frontend code playground widely used by creative coders to prototype and embed interactive WebGL, Three.js, and custom GLSL shader experiments.
-
-- **[GLSL Sandbox (Hosted Web Gallery)](https://glslsandbox.com)**  
-  Classic minimalist live-coding browser gallery for real-time GLSL fragment shaders with instant URL-encoded shader sharing and forkable source code.
-
-- **[VertexShaderArt](https://vertexshaderart.com)**  
-  Browser-based live-coding platform dedicated specifically to vertex shaders, generating procedural point, line, and triangle art from pure vertex math and audio input.
-
-- **[Three.js Editor (Hosted Web App)](https://threejs.org)**  
-  Official browser-hosted 3D scene and material editor for Three.js supporting real-time shader materials, lighting, and glTF export.
-
-- **[Babylon.js Sandbox & Node Material Editor (NME)](https://babylonjs.com)**  
-  Cloud-hosted visual node-based shader graph editor and glTF/GLB inspector compiling node trees directly into GLSL and WGSL shaders.
-
-- **[The Book of Shaders Editor (Hosted Web IDE)](https://thebookofshaders.com)**  
-  Interactive online GLSL learning guide and live browser shader editor teaching fragment shader mathematics, shaping functions, noise, and cellular patterns.
-
-
-## Open-Source GitHub Projects
-
-- **[gokayfem/shader-skills](https://github.com)**  
-  Open-source shader authoring and AI-assisted graphics skills toolkit engineered to streamline GLSL/WGSL shader development, visual effects synthesis, and technical art workflows.
-
-- **[glslViewer (`patriciogonzalezvivo/glslViewer`)](https://github.com)**  
-  Flagship open-source console-based GLSL sandbox written in C++ that renders 2D/3D shaders from the terminal with hot-reloading, OSC/MIDI uniforms, and headless frame export.
-
-- **[Bonzomatic (`Gargaj/Bonzomatic`)](https://github.com)**  
-  Iconic open-source live-shader-coding tool used in international demoscene shader showdowns, featuring an overlay code editor directly on top of a full-screen 60fps shader canvas.
-
-- **[Twigl (`doxas/twigl`)](https://github.com)**  
-  Ultra-compact, open-source online GLSL fragment shader editor engineered for live-coding, demoscene "one-tweet" shaders, and instant GIF/WebM capture.
-
-- **[The Book of Shaders & glslCanvas (`patriciogonzalezvivo/thebookofshaders`)](https://github.com)**  
-  Open-source interactive textbook and `glslCanvas` WebGL utility for embedding live, zero-dependency GLSL fragment shaders into any webpage or documentation.
-
-- **[Three.js & Three.js Shading Language — TSL (`mrdoob/three.js`)](https://github.com)**  
-  Industry-standard open-source WebGL/WebGPU 3D library featuring `ShaderMaterial`, `RawShaderMaterial`, and node-based `TSL` that cross-compiles to both GLSL and WGSL.
-
-- **[Babylon.js (`BabylonJS/Babylon.js`)](https://github.com)**  
-  Comprehensive open-source real-time 3D WebGL/WebGPU engine bundling the self-hostable Node Material Editor (`NME`), CustomMaterial, and Spector.js WebGL frame debugger.
-
-- **[WebGLStudio (`jagenjo/webglstudio.js`)](https://github.com)**  
-  Full-featured open-source browser-based 3D WebGL scene editor, graph system, and visual shader/material authoring suite written in JavaScript.
-
-- **[GLSL Sandbox (`mrdoob/glsl-sandbox`)](https://github.com)**  
-  Original open-source client/server codebase by Mr.doob for running self-hosted live-coding GLSL fragment shader galleries with real-time error diagnostics.
-
-- **[Khronos glslang (`KhronosGroup/glslang`) & SPIRV-Cross (`KhronosGroup/SPIRV-Cross`)](https://github.com)**  
-  Official Khronos open-source reference GLSL/ESSL front-end validator and SPIR-V cross-compiler translating shaders seamlessly across GLSL, HLSL, MSL, and C++.
-
-- **[wgpu / Naga (`gfx-rs/wgpu`)](https://github.com)**  
-  Modern open-source Rust shader translation library (`Naga`) and WebGPU runtime converting shaders cleanly between WGSL, GLSL, SPIR-V, HLSL, and Metal Shading Language.
-
-### Additional Strong Open-Source Options
-
-- **[ISF-Files & VVISF-GL (`mrRay/VVISF-GL`)](https://github.com)** for the open-source Interactive Shader Format (ISF) specification and C++ OpenGL library enabling portable real-time visual generator shaders across VJ/media apps.
-- **[Lygia (`patriciogonzalezvivo/lygia`)](https://github.com)** for a massive, modular, multi-language open-source shader function library (GLSL, HLSL, WGSL, MSL, CUDA) covering lighting, noise, SDFs, and color spaces.
-- **[Spector.js (`BabylonJS/Spector.js`)](https://github.com)** and **[RenderDoc (`baldurk/renderdoc`)](https://github.com)** for open-source frame-by-frame WebGL, OpenGL, and Vulkan shader debugging, uniform inspection, and draw-call profiling.
-- **[Shadered (`dfranx/SHADERed`)](https://github.com)** for a lightweight, cross-platform open-source desktop shader IDE supporting GLSL, HLSL, SPIR-V, geometry/compute shaders, and step-by-step shader debugging.
-- **[Hydra (`hydra-synth/hydra`)](https://github.com)** for an open-source browser-based live-coding video synthesizer compiling modular visual chains into real-time GLSL shaders.
-
-**Frameworks for building custom systems**: Combine **Lygia** + **glslViewer** or **Shadered** for local rapid shader prototyping, **Three.js (TSL) / Babylon.js NME** for cross-platform WebGL/WebGPU deployment, and **Spector.js + RenderDoc** for deep GPU draw-call and shader profiling.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Support & Share
-
-If you find this curated list helpful, consider supporting the project:
-
-- ⭐ **Star this repository** to help others discover it.
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Complex raymarching loops, unrolled octaves of FBM noise, and high-resolution multi-pass fragment shaders can cause GPU driver timeouts (TDR) on mobile or integrated graphics; always guard loop bounds and respect `devicePixelRatio` caps.
-- Note that `Shadertoy` default shader submissions use CC BY-NC-SA 3.0 unless otherwise specified by the author; always verify individual shader licenses before reusing snippets in commercial projects.
-
----
-
-**Made for graphics programmers, shader artists, technical artists, demosceners, and open-source contributors.**  
-Use code with caution.
+markdown
+
+## Top Computer Graphics & GLSL Shader Authoring Ecosystem
+
+
+
+**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+
+*Focused on Live GLSL/WGSL Shader Playgrounds, Node-Based Shader Editors, Interactive Shader Formats (ISF), WebGL/WebGPU Engines & Shader Toolchains*  
+
+**Last updated: November 2026**
+
+
+
+This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Computer Graphics & GLSL Shader Authoring**. These tools write, compile, debug, visualize, cross-compile, and share real-time GLSL, HLSL, and WGSL fragment/vertex shaders across browser shader playgrounds, live-coding environments, node-based material editors, and WebGL/WebGPU graphics pipelines.
+
+
+
+**Examples** include Shadertoy, ShaderFrog, ISF (Interactive Shader Format), The Book of Shaders, GLSL Sandbox, VertexShaderArt, Three.js Editor, Babylon.js Sandbox, CodePen WebGL, WebGLStudio, and gokayfem/shader-skills (the category leaders and popular runtimes). 
+
+
+
+**Open-source emphasis**: This section is heavily expanded with every major active project for shader authoring & AI shader workflows (`gokayfem/shader-skills`, `glslViewer`, `Bonzomatic`, `KodeLife-compatible OSS live coders`, `Twigl`), node-based & browser shader studios (`ShaderFrog Runtime`, `Babylon.js Node Material Editor`, `Three.js TSL`, `WebGLStudio`), and Khronos/industry shader compilers (`glslang`, `SPIRV-Cross`, `Naga`) — ideal for graphics programmers, shader artists, technical artists, demosceners, and WebGL/WebGPU developers.
+
+
+
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+
+
+
+## Table of Contents
+
+- [SaaS/Hosted Platforms](#saashosted-platforms)
+
+- [Open-Source GitHub Projects](#open-source-github-projects)
+
+- [How to Contribute](#how-to-contribute)
+
+- [Support & Share](#support--share)
+
+- [Disclaimer](#disclaimer)
+
+
+
+## SaaS/Hosted Platforms
+
+
+
+- **[Shadertoy](https://shadertoy.com)**  
+
+  Premier browser-based GLSL fragment shader playground and social gallery for real-time WebGL 2 procedural graphics, raymarching, multi-pass buffers, and audio-reactive shaders.
+
+
+
+- **[ShaderFrog](https://shaderfrog.com)**  
+
+  Cloud hybrid shader editor and visual material composer enabling artists to combine, remix, and export multi-pass GLSL shaders for Three.js, Babylon.js, and Unity.
+
+
+
+- **[ISF Editor & Video-Generators Portal (`isf.video`)](https://isf.video)**  
+
+  Hosted Interactive Shader Format (ISF) browser gallery, live editor, and VJ shader sharing platform supporting real-time uniforms and audio/MIDI inputs.
+
+
+
+- **[CodePen (WebGL & GLSL Showcase)](https://codepen.io)**  
+
+  Social frontend code playground widely used by creative coders to prototype and embed interactive WebGL, Three.js, and custom GLSL shader experiments.
+
+
+
+- **[GLSL Sandbox (Hosted Web Gallery)](https://glslsandbox.com)**  
+
+  Classic minimalist live-coding browser gallery for real-time GLSL fragment shaders with instant URL-encoded shader sharing and forkable source code.
+
+
+
+- **[VertexShaderArt](https://vertexshaderart.com)**  
+
+  Browser-based live-coding platform dedicated specifically to vertex shaders, generating procedural point, line, and triangle art from pure vertex math and audio input.
+
+
+
+- **[Three.js Editor (Hosted Web App)](https://threejs.org)**  
+
+  Official browser-hosted 3D scene and material editor for Three.js supporting real-time shader materials, lighting, and glTF export.
+
+
+
+- **[Babylon.js Sandbox & Node Material Editor (NME)](https://babylonjs.com)**  
+
+  Cloud-hosted visual node-based shader graph editor and glTF/GLB inspector compiling node trees directly into GLSL and WGSL shaders.
+
+
+
+- **[The Book of Shaders Editor (Hosted Web IDE)](https://thebookofshaders.com)**  
+
+  Interactive online GLSL learning guide and live browser shader editor teaching fragment shader mathematics, shaping functions, noise, and cellular patterns.
+
+
+
+
+
+## Open-Source GitHub Projects
+
+
+
+- **[gokayfem/shader-skills](https://github.com)**  
+
+  Open-source shader authoring and AI-assisted graphics skills toolkit engineered to streamline GLSL/WGSL shader development, visual effects synthesis, and technical art workflows.
+
+
+
+- **[glslViewer (`patriciogonzalezvivo/glslViewer`)](https://github.com)**  
+
+  Flagship open-source console-based GLSL sandbox written in C++ that renders 2D/3D shaders from the terminal with hot-reloading, OSC/MIDI uniforms, and headless frame export.
+
+
+
+- **[Bonzomatic (`Gargaj/Bonzomatic`)](https://github.com)**  
+
+  Iconic open-source live-shader-coding tool used in international demoscene shader showdowns, featuring an overlay code editor directly on top of a full-screen 60fps shader canvas.
+
+
+
+- **[Twigl (`doxas/twigl`)](https://github.com)**  
+
+  Ultra-compact, open-source online GLSL fragment shader editor engineered for live-coding, demoscene "one-tweet" shaders, and instant GIF/WebM capture.
+
+
+
+- **[The Book of Shaders & glslCanvas (`patriciogonzalezvivo/thebookofshaders`)](https://github.com)**  
+
+  Open-source interactive textbook and `glslCanvas` WebGL utility for embedding live, zero-dependency GLSL fragment shaders into any webpage or documentation.
+
+
+
+- **[Three.js & Three.js Shading Language — TSL (`mrdoob/three.js`)](https://github.com)**  
+
+  Industry-standard open-source WebGL/WebGPU 3D library featuring `ShaderMaterial`, `RawShaderMaterial`, and node-based `TSL` that cross-compiles to both GLSL and WGSL.
+
+
+
+- **[Babylon.js (`BabylonJS/Babylon.js`)](https://github.com)**  
+
+  Comprehensive open-source real-time 3D WebGL/WebGPU engine bundling the self-hostable Node Material Editor (`NME`), CustomMaterial, and Spector.js WebGL frame debugger.
+
+
+
+- **[WebGLStudio (`jagenjo/webglstudio.js`)](https://github.com)**  
+
+  Full-featured open-source browser-based 3D WebGL scene editor, graph system, and visual shader/material authoring suite written in JavaScript.
+
+
+
+- **[GLSL Sandbox (`mrdoob/glsl-sandbox`)](https://github.com)**  
+
+  Original open-source client/server codebase by Mr.doob for running self-hosted live-coding GLSL fragment shader galleries with real-time error diagnostics.
+
+
+
+- **[Khronos glslang (`KhronosGroup/glslang`) & SPIRV-Cross (`KhronosGroup/SPIRV-Cross`)](https://github.com)**  
+
+  Official Khronos open-source reference GLSL/ESSL front-end validator and SPIR-V cross-compiler translating shaders seamlessly across GLSL, HLSL, MSL, and C++.
+
+
+
+- **[wgpu / Naga (`gfx-rs/wgpu`)](https://github.com)**  
+
+  Modern open-source Rust shader translation library (`Naga`) and WebGPU runtime converting shaders cleanly between WGSL, GLSL, SPIR-V, HLSL, and Metal Shading Language.
+
+
+
+### Additional Strong Open-Source Options
+
+
+
+- **[ISF-Files & VVISF-GL (`mrRay/VVISF-GL`)](https://github.com)** for the open-source Interactive Shader Format (ISF) specification and C++ OpenGL library enabling portable real-time visual generator shaders across VJ/media apps.
+
+- **[Lygia (`patriciogonzalezvivo/lygia`)](https://github.com)** for a massive, modular, multi-language open-source shader function library (GLSL, HLSL, WGSL, MSL, CUDA) covering lighting, noise, SDFs, and color spaces.
+
+- **[Spector.js (`BabylonJS/Spector.js`)](https://github.com)** and **[RenderDoc (`baldurk/renderdoc`)](https://github.com)** for open-source frame-by-frame WebGL, OpenGL, and Vulkan shader debugging, uniform inspection, and draw-call profiling.
+
+- **[Shadered (`dfranx/SHADERed`)](https://github.com)** for a lightweight, cross-platform open-source desktop shader IDE supporting GLSL, HLSL, SPIR-V, geometry/compute shaders, and step-by-step shader debugging.
+
+- **[Hydra (`hydra-synth/hydra`)](https://github.com)** for an open-source browser-based live-coding video synthesizer compiling modular visual chains into real-time GLSL shaders.
+
+
+
+**Frameworks for building custom systems**: Combine **Lygia** + **glslViewer** or **Shadered** for local rapid shader prototyping, **Three.js (TSL) / Babylon.js NME** for cross-platform WebGL/WebGPU deployment, and **Spector.js + RenderDoc** for deep GPU draw-call and shader profiling.
+
+
+
+## How to Contribute
+
+
+
+1. Fork the repo.
+
+2. Add/edit entries in `README.md` (follow existing format).
+
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
+
+4. Submit PR with a short explanation.
+
+
+
+Star the repo if you find it useful!
+
+
+
+## Support & Share
+
+
+
+If you find this curated list helpful, consider supporting the project:
+
+
+
+- ⭐ **Star this repository** to help others discover it.
+
+- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
+
+- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
+
+
+
+[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
+
+
+
+## Disclaimer
+
+
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+
+- Complex raymarching loops, unrolled octaves of FBM noise, and high-resolution multi-pass fragment shaders can cause GPU driver timeouts (TDR) on mobile or integrated graphics; always guard loop bounds and respect `devicePixelRatio` caps.
+
+- Note that `Shadertoy` default shader submissions use CC BY-NC-SA 3.0 unless otherwise specified by the author; always verify individual shader licenses before reusing snippets in commercial projects.
+
+
+
+---
+
+
+
+**Made for graphics programmers, shader artists, technical artists, demosceners, and open-source contributors.**  
+
+Use code with caution.
+
 Let's make computer graphics and GLSL/WGSL shader authoring more open, portable, and inspiring.
