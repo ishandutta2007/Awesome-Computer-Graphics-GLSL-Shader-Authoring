@@ -38,65 +38,39 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - [Support & Share](#support--share)
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
+- [SaaS/Hosted Platforms](#saashosted-platforms)
+
+- [Open-Source GitHub Projects](#open-source-github-projects)
+
+- [How to Contribute](#how-to-contribute)
+
+- [Support & Share](#support--share)
+
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The front-end UI component libraries and design systems software market is estimated at approximately **$3.8 billion** and projected to reach **$12.4 billion** by the early 2030s (growing at ~12.5% CAGR), with UI component kits accounting for nearly 45% of total sector demand. The sector is **moderately fragmented** rather than a winner-take-all monopoly: while mega-platforms (such as Ant Group, Shopify/Tailwind Labs, and Vercel) anchor enterprise distributions and infrastructure backbones, widespread community-driven adoption of headless primitives (Radix, Base UI) and copy-paste registries (shadcn/ui) allows independent, bootstrapped creator studios and specialized commercial component providers to thrive alongside them.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Tailwind Plus (formerly Tailwind UI)](https://tailwindcss.com)**  
-
-  Official commercial UI kit from the creators of Tailwind CSS offering hundreds of professionally designed application UI, marketing, and e-commerce templates in HTML, React, and Vue.
-
-
-
-- **[Relume](https://relume.io)**  
-
-  AI-powered site builder and massive component library (1,000+ Webflow, Figma, and React/Tailwind components) engineered for rapid wireframing and marketing site production.
-
-
-
-- **[Chakra UI Pro](https://chakra-ui.com)**  
-
-  Commercial suite of responsive, accessible, multi-theme marketing and application UI blocks built directly on top of open-source Chakra UI.
-
-
-
-- **[MUI Store & MUI X Pro/Premium](https://mui.com)**  
-
-  Official Material UI marketplace and enterprise component tier featuring advanced data grids, date/time range pickers, charts, and commercial React/Next.js dashboard templates.
-
-
-
-- **[HeroUI Pro (formerly NextUI Pro)](https://heroui.pro)**  
-
-  Commercial library of 200+ responsive, accessible Tailwind CSS and Framer Motion UI blocks built on the open-source HeroUI component system.
-
-
-
-- **[Flowbite Pro](https://flowbite.com)**  
-
-  Commercial design system and UI kit extending open-source Flowbite with Figma variables, dashboard templates, e-commerce blocks, and application UI sections.
-
-
-
-- **[Tremor Blocks / Pro](https://tremor.so)**  
-
-  Commercial collection of polished analytics, KPI card, and financial dashboard UI blocks built on Tailwind CSS and open-source Tremor primitives.
-
-
-
-- **[Shadcn UI Pro / Commercial Registries (e.g., Shadcnblocks / Origin UI Pro)](https://shadcn.com)**  
-
-  Ecosystem of commercial block marketplaces and SaaS starter kits built around the open-source `shadcn/ui` CLI registry specification.
-
-
-
-- **[Ant Design Pro (Commercial Cloud Templates & Enterprise Suites)](https://ant.design)**  
-
-  Enterprise-grade admin console design ecosystem offering commercial scaffolded layouts, business components, and internationalized dashboard blueprints.
+| Platform | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Ant Design Pro](https://ant.design)** | **~$78B–$103B Valuation** (~$37B annual revenue, Ant Group) | **$0 / Free** (Enterprise consulting / custom cloud scaffolds via Ant Digital) | **Free forever without restrictions** (100% open-source Apache-2.0 enterprise scaffold & dashboard blueprints; no license walls) | Enterprise-grade admin console design ecosystem offering commercial scaffolded layouts, business components, and internationalized dashboard blueprints. |
+| **[Tailwind Plus (formerly Tailwind UI)](https://tailwindcss.com)** | **~$110B+ Market Cap** (Parent: Shopify, acquired Tailwind Labs in Sep 2026; previously ~$4M+ ARR bootstrapped) | **$299** (One-time payment for lifetime personal license; team license at $979) | **Free forever limited preview** (Access to ~12 free preview components; public new checkouts paused post-Shopify acquisition) | Official commercial UI kit from the creators of Tailwind CSS offering hundreds of professionally designed application UI, marketing, and e-commerce templates in HTML, React, and Vue. |
+| **[Tremor Blocks / Pro](https://tremor.so)** | **$9.3B Valuation** ($200M+ ARR, acquired by Vercel in Jan 2025) | **$0 / Free** (Integrated into Vercel open-source tools; $20/mo Vercel Pro for hosting) | **Free forever without restrictions** (Full library of dashboard blocks, charts, and templates released as 100% free open-source MIT) | Commercial collection of polished analytics, KPI card, and financial dashboard UI blocks built on Tailwind CSS and open-source Tremor primitives. |
+| **[MUI Store & MUI X Pro/Premium](https://mui.com)** | **~$10M–$15M Est. Valuation** (~$4M–$5M ARR, profitable & bootstrapped) | **$299 / developer / year** (Annual subscription for MUI X Pro license) | **Free forever Community tier** (MIT license: standard single-column filter, basic pagination; excludes DateRangePicker, column pinning, Excel export, and row grouping) | Official Material UI marketplace and enterprise component tier featuring advanced data grids, date/time range pickers, charts, and commercial React/Next.js dashboard templates. |
+| **[Relume](https://relume.io)** | **~$15M–$20M Est. Valuation** (~$3.3M ARR, 30 employees, bootstrapped) | **$38 / month** (Billed annually for Starter plan, or $48/mo billed monthly) | **Free forever plan** (1 project, 1 page/project, 1,500 monthly page views, 1 AI generation/mo, 30 Webflow/React components, Figma exports only) | AI-powered site builder and massive component library (1,000+ Webflow, Figma, and React/Tailwind components) engineered for rapid wireframing and marketing site production. |
+| **[Flowbite Pro](https://flowbite.com)** | **~$8M–$12M Est. Valuation** (~$2.6M+ cumulative revenue, Bergside Inc., bootstrapped) | **$169** (One-time purchase for Designer Edition; $299 one-time for Developer Edition) | **Free forever Community tier** (MIT license: 600+ core Tailwind components; excludes advanced app templates, complex data tables, and Figma design system) | Commercial design system and UI kit extending open-source Flowbite with Figma variables, dashboard templates, e-commerce blocks, and application UI sections. |
+| **[Chakra UI Pro](https://chakra-ui.com)** | **~$3M–$5M Est. Valuation** (~$500K–$1M ARR, Chakra Systems / Segun Adebayo, bootstrapped) | **$299** (One-time payment for lifetime Personal license; $899 lifetime for Team license) | **Free forever core library** (Open-source Chakra UI MIT baseline components; Pro sections provide sample preview code only) | Commercial suite of responsive, accessible, multi-theme marketing and application UI blocks built directly on top of open-source Chakra UI. |
+| **[HeroUI Pro (formerly NextUI Pro)](https://heroui.pro)** | **~$2M–$4M Est. Valuation** (~$300K–$600K ARR, HeroUI Inc., bootstrapped) | **$299** (One-time payment for lifetime individual Web Hero license; formerly $249) | **Free forever open-source core** (Full HeroUI Apache-2.0 core components free; Pro blocks have 0 free tiers, only visual public demos) | Commercial library of 200+ responsive, accessible Tailwind CSS and Framer Motion UI blocks built on the open-source HeroUI component system. |
+| **[Shadcn UI Pro / Commercial Registries (e.g., Shadcnblocks / Origin UI Pro)](https://shadcn.com)** | **~$1M–$3M Est. Valuation** (~$200K–$500K ARR across indie block registries, bootstrapped) | **$79** (One-time payment starting tier for Shadcnblocks lifetime license) | **Free forever plan** (17 MIT open blocks + 22 basic blocks upon registration on Shadcnblocks; 2 copies/day on 21st.dev free tier) | Ecosystem of commercial block marketplaces and SaaS starter kits built around the open-source `shadcn/ui` CLI registry specification. |
 
 
 
